@@ -10,7 +10,7 @@ Together, they form a complete interactive system where users can ask for book s
 
 
 Check out the live site here:  
-👉 [Librica – AI Book Recommendation Assistant](https://SankalpTiwari0909.github.io/Librica-InkSeer-AI-Book-Buddy/)
+👉 [Librica – AI Book Recommendation Assistant](https://sankalptiwari0909.github.io/Librica-InkSeer-AI-Book-Buddy/)
 )
 
 
