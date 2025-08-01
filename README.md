@@ -1,9 +1,10 @@
-# InkSeer-AI-Bot
 # 📚 Librica – AI Book Recommendation Assistant
 
-## 🔍 Summary
+**Librica** is the name of the website – a book recommendation platform powered by AI.  
+The intelligent assistant integrated into it is called **InkSeer**, a chatbot created using IBM Watson Assistant.
 
-**Librica** is a simple AI-powered web project that recommends books to users based on genres like fiction, non-fiction, self-help, etc. It uses **IBM Watson Assistant** for the chatbot InkSeer and a clean **HTML/CSS** front-end for the user interface. This project was created to demonstrate chatbot integration, user intent recognition, and web deployment.
+Together, they form a complete interactive system where users can ask for book suggestions based on genre preferences.
+
 
 ---
 
